@@ -1,0 +1,29 @@
+EXP: 'seresnext50'
+
+DIRS:
+  DATA: "/home/dev/data/rsna/"
+  # DATA: "/home/nhannt/data/rsna/"
+  TRAIN: "images/"
+  VALID: "images/"
+  TEST: "images/"
+
+DATA:
+  MEAN: [0.485, 0.456, 0.406]
+  STD: [0.229, 0.224, 0.225]
+  IMG_SIZE: 512
+  NUM_SLICES: 10
+
+MODEL:
+  ENCODER:
+    NAME: "se_resnext50_32x4d"
+  DECODER:
+    DROPOUT: 0.
+
+OPT:
+  BASE_LR: 1e-3
+  WARMUP_EPOCHS: 3
+  GD_STEPS: 2
+
+TRAIN:
+  BATCH_SIZE: 5
+  EPOCHS: 30

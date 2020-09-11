@@ -1,0 +1,776 @@
+2019-12-11 10:19:54,463 train INFO: 
+Epoch 1
+2019-12-11 11:00:48,225 train INFO: Train loss: 0.29974, learning rate: 0.000332
+2019-12-11 11:05:22,153 train INFO: Val. loss: 0.14831 - any: 0.387 - intraparenchymal: 0.100 - intraventricular: 0.082 - subarachnoid: 0.130 - subdural: 0.164 - epidural: 0.027
+2019-12-11 11:05:22,236 train INFO: Val. AUC - intraparenchymal: 0.950 - intraventricular: 0.947 - subarachnoid: 0.910 - subdural: 0.900 - epidural: 0.882
+2019-12-11 11:05:23,061 train INFO: 
+Epoch 2
+2019-12-11 11:46:11,458 train INFO: Train loss: 0.18483, learning rate: 0.000659
+2019-12-11 11:50:47,829 train INFO: Val. loss: 0.12686 - any: 0.340 - intraparenchymal: 0.087 - intraventricular: 0.074 - subarachnoid: 0.116 - subdural: 0.120 - epidural: 0.024
+2019-12-11 11:50:47,927 train INFO: Val. AUC - intraparenchymal: 0.963 - intraventricular: 0.964 - subarachnoid: 0.933 - subdural: 0.950 - epidural: 0.931
+2019-12-11 11:50:49,614 train INFO: 
+Epoch 3
+2019-12-11 12:31:34,400 train INFO: Train loss: 0.17456, learning rate: 0.000975
+2019-12-11 12:36:08,865 train INFO: Val. loss: 0.11897 - any: 0.320 - intraparenchymal: 0.083 - intraventricular: 0.071 - subarachnoid: 0.105 - subdural: 0.110 - epidural: 0.025
+2019-12-11 12:36:08,952 train INFO: Val. AUC - intraparenchymal: 0.964 - intraventricular: 0.970 - subarachnoid: 0.942 - subdural: 0.948 - epidural: 0.928
+2019-12-11 12:36:11,097 train INFO: 
+Epoch 4
+2019-12-11 13:17:01,906 train INFO: Train loss: 0.16415, learning rate: 0.000957
+2019-12-11 13:21:46,160 train INFO: Val. loss: 0.12509 - any: 0.355 - intraparenchymal: 0.077 - intraventricular: 0.061 - subarachnoid: 0.106 - subdural: 0.127 - epidural: 0.024
+2019-12-11 13:21:46,246 train INFO: Val. AUC - intraparenchymal: 0.971 - intraventricular: 0.975 - subarachnoid: 0.956 - subdural: 0.950 - epidural: 0.954
+2019-12-11 13:21:47,590 train INFO: 
+Epoch 5
+2019-12-11 14:02:31,291 train INFO: Train loss: 0.15513, learning rate: 0.000933
+2019-12-11 14:07:12,441 train INFO: Val. loss: 0.11485 - any: 0.313 - intraparenchymal: 0.075 - intraventricular: 0.065 - subarachnoid: 0.086 - subdural: 0.125 - epidural: 0.023
+2019-12-11 14:07:12,530 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.982 - subarachnoid: 0.963 - subdural: 0.960 - epidural: 0.955
+2019-12-11 14:07:14,738 train INFO: 
+Epoch 6
+2019-12-11 14:48:01,027 train INFO: Train loss: 0.15031, learning rate: 0.000905
+2019-12-11 14:52:42,481 train INFO: Val. loss: 0.10058 - any: 0.285 - intraparenchymal: 0.070 - intraventricular: 0.045 - subarachnoid: 0.083 - subdural: 0.099 - epidural: 0.021
+2019-12-11 14:52:42,571 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.987 - subarachnoid: 0.963 - subdural: 0.968 - epidural: 0.964
+2019-12-11 14:52:44,598 train INFO: 
+Epoch 7
+2019-12-11 15:33:47,119 train INFO: Train loss: 0.14572, learning rate: 0.000872
+2019-12-11 15:38:22,393 train INFO: Val. loss: 0.09372 - any: 0.259 - intraparenchymal: 0.068 - intraventricular: 0.043 - subarachnoid: 0.081 - subdural: 0.091 - epidural: 0.021
+2019-12-11 15:38:22,483 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.989 - subarachnoid: 0.966 - subdural: 0.970 - epidural: 0.965
+2019-12-11 15:38:24,014 train INFO: 
+Epoch 8
+2019-12-11 16:19:16,980 train INFO: Train loss: 0.14275, learning rate: 0.000835
+2019-12-11 16:23:51,927 train INFO: Val. loss: 0.09188 - any: 0.258 - intraparenchymal: 0.061 - intraventricular: 0.041 - subarachnoid: 0.080 - subdural: 0.090 - epidural: 0.022
+2019-12-11 16:23:52,018 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.990 - subarachnoid: 0.970 - subdural: 0.967 - epidural: 0.958
+2019-12-11 16:23:53,808 train INFO: 
+Epoch 9
+2019-12-11 17:04:46,033 train INFO: Train loss: 0.14003, learning rate: 0.000794
+2019-12-11 17:09:22,439 train INFO: Val. loss: 0.09166 - any: 0.256 - intraparenchymal: 0.064 - intraventricular: 0.043 - subarachnoid: 0.074 - subdural: 0.092 - epidural: 0.020
+2019-12-11 17:09:22,530 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.990 - subarachnoid: 0.972 - subdural: 0.970 - epidural: 0.965
+2019-12-11 17:09:24,469 train INFO: 
+Epoch 10
+2019-12-11 17:50:17,453 train INFO: Train loss: 0.13742, learning rate: 0.000750
+2019-12-11 17:54:53,024 train INFO: Val. loss: 0.09006 - any: 0.250 - intraparenchymal: 0.060 - intraventricular: 0.041 - subarachnoid: 0.078 - subdural: 0.093 - epidural: 0.019
+2019-12-11 17:54:53,114 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.991 - subarachnoid: 0.970 - subdural: 0.972 - epidural: 0.973
+2019-12-11 17:54:55,209 train INFO: 
+Epoch 11
+2019-12-11 18:35:49,809 train INFO: Train loss: 0.13528, learning rate: 0.000703
+2019-12-11 18:40:24,735 train INFO: Val. loss: 0.08769 - any: 0.244 - intraparenchymal: 0.063 - intraventricular: 0.040 - subarachnoid: 0.072 - subdural: 0.086 - epidural: 0.021
+2019-12-11 18:40:24,824 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.990 - subarachnoid: 0.974 - subdural: 0.971 - epidural: 0.965
+2019-12-11 18:40:26,893 train INFO: 
+Epoch 12
+2019-12-11 19:21:20,762 train INFO: Train loss: 0.13377, learning rate: 0.000655
+2019-12-11 19:26:02,368 train INFO: Val. loss: 0.08981 - any: 0.250 - intraparenchymal: 0.069 - intraventricular: 0.040 - subarachnoid: 0.072 - subdural: 0.088 - epidural: 0.020
+2019-12-11 19:26:02,459 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.990 - subarachnoid: 0.975 - subdural: 0.975 - epidural: 0.966
+2019-12-11 19:26:03,208 train INFO: 
+Epoch 13
+2019-12-11 20:06:57,278 train INFO: Train loss: 0.13310, learning rate: 0.000604
+2019-12-11 20:11:40,051 train INFO: Val. loss: 0.08394 - any: 0.238 - intraparenchymal: 0.056 - intraventricular: 0.036 - subarachnoid: 0.071 - subdural: 0.083 - epidural: 0.020
+2019-12-11 20:11:40,140 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.976 - subdural: 0.975 - epidural: 0.969
+2019-12-11 20:11:42,240 train INFO: 
+Epoch 14
+2019-12-11 20:52:36,740 train INFO: Train loss: 0.13163, learning rate: 0.000552
+2019-12-11 20:57:12,667 train INFO: Val. loss: 0.08261 - any: 0.234 - intraparenchymal: 0.056 - intraventricular: 0.037 - subarachnoid: 0.068 - subdural: 0.082 - epidural: 0.019
+2019-12-11 20:57:12,755 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.993 - subarachnoid: 0.977 - subdural: 0.978 - epidural: 0.972
+2019-12-11 20:57:14,677 train INFO: 
+Epoch 15
+2019-12-11 21:38:13,427 train INFO: Train loss: 0.13015, learning rate: 0.000500
+2019-12-11 21:42:48,783 train INFO: Val. loss: 0.08556 - any: 0.241 - intraparenchymal: 0.059 - intraventricular: 0.037 - subarachnoid: 0.070 - subdural: 0.084 - epidural: 0.022
+2019-12-11 21:42:48,872 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.992 - subarachnoid: 0.974 - subdural: 0.975 - epidural: 0.968
+2019-12-11 21:42:50,056 train INFO: 
+Epoch 16
+2019-12-11 22:23:47,896 train INFO: Train loss: 0.12779, learning rate: 0.000448
+2019-12-11 22:28:22,423 train INFO: Val. loss: 0.08285 - any: 0.237 - intraparenchymal: 0.058 - intraventricular: 0.035 - subarachnoid: 0.066 - subdural: 0.083 - epidural: 0.019
+2019-12-11 22:28:22,514 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.973 - epidural: 0.973
+2019-12-11 22:28:23,256 train INFO: 
+Epoch 17
+2019-12-11 23:09:19,517 train INFO: Train loss: 0.12658, learning rate: 0.000396
+2019-12-11 23:13:55,061 train INFO: Val. loss: 0.08268 - any: 0.235 - intraparenchymal: 0.056 - intraventricular: 0.035 - subarachnoid: 0.070 - subdural: 0.081 - epidural: 0.019
+2019-12-11 23:13:55,149 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.978 - epidural: 0.973
+2019-12-11 23:13:56,133 train INFO: 
+Epoch 18
+2019-12-11 23:55:00,494 train INFO: Train loss: 0.12382, learning rate: 0.000346
+2019-12-11 23:59:44,485 train INFO: Val. loss: 0.08073 - any: 0.230 - intraparenchymal: 0.056 - intraventricular: 0.034 - subarachnoid: 0.067 - subdural: 0.079 - epidural: 0.019
+2019-12-11 23:59:44,573 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.994 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.974
+2019-12-11 23:59:47,364 train INFO: 
+Epoch 19
+2019-12-12 00:41:01,925 train INFO: Train loss: 0.12465, learning rate: 0.000297
+2019-12-12 00:45:48,067 train INFO: Val. loss: 0.07927 - any: 0.224 - intraparenchymal: 0.054 - intraventricular: 0.036 - subarachnoid: 0.065 - subdural: 0.080 - epidural: 0.018
+2019-12-12 00:45:48,156 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.978 - epidural: 0.977
+2019-12-12 00:45:50,832 train INFO: 
+Epoch 20
+2019-12-12 01:27:06,962 train INFO: Train loss: 0.12273, learning rate: 0.000250
+2019-12-12 01:31:46,605 train INFO: Val. loss: 0.08056 - any: 0.232 - intraparenchymal: 0.053 - intraventricular: 0.033 - subarachnoid: 0.065 - subdural: 0.082 - epidural: 0.019
+2019-12-12 01:31:46,694 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.994 - subarachnoid: 0.978 - subdural: 0.976 - epidural: 0.972
+2019-12-12 01:31:47,888 train INFO: 
+Epoch 21
+2019-12-12 02:13:01,526 train INFO: Train loss: 0.11983, learning rate: 0.000206
+2019-12-12 02:17:39,563 train INFO: Val. loss: 0.07956 - any: 0.226 - intraparenchymal: 0.054 - intraventricular: 0.031 - subarachnoid: 0.069 - subdural: 0.079 - epidural: 0.018
+2019-12-12 02:17:39,662 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.994 - subarachnoid: 0.977 - subdural: 0.977 - epidural: 0.977
+2019-12-12 02:17:40,474 train INFO: 
+Epoch 22
+2019-12-12 02:58:55,036 train INFO: Train loss: 0.11883, learning rate: 0.000165
+2019-12-12 03:03:32,713 train INFO: Val. loss: 0.07975 - any: 0.229 - intraparenchymal: 0.052 - intraventricular: 0.031 - subarachnoid: 0.070 - subdural: 0.080 - epidural: 0.017
+2019-12-12 03:03:32,803 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.995 - subarachnoid: 0.977 - subdural: 0.975 - epidural: 0.976
+2019-12-12 03:03:33,790 train INFO: 
+Epoch 23
+2019-12-12 03:45:00,822 train INFO: Train loss: 0.11958, learning rate: 0.000128
+2019-12-12 03:49:42,303 train INFO: Val. loss: 0.07635 - any: 0.219 - intraparenchymal: 0.051 - intraventricular: 0.029 - subarachnoid: 0.065 - subdural: 0.077 - epidural: 0.018
+2019-12-12 03:49:42,390 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.978 - subdural: 0.977 - epidural: 0.977
+2019-12-12 03:49:44,478 train INFO: 
+Epoch 24
+2019-12-12 04:31:05,469 train INFO: Train loss: 0.11742, learning rate: 0.000095
+2019-12-12 04:35:42,785 train INFO: Val. loss: 0.07689 - any: 0.222 - intraparenchymal: 0.051 - intraventricular: 0.030 - subarachnoid: 0.064 - subdural: 0.077 - epidural: 0.017
+2019-12-12 04:35:42,872 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.978
+2019-12-12 04:35:43,571 train INFO: 
+Epoch 25
+2019-12-12 05:16:57,971 train INFO: Train loss: 0.11827, learning rate: 0.000067
+2019-12-12 05:21:35,094 train INFO: Val. loss: 0.07554 - any: 0.216 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.063 - subdural: 0.077 - epidural: 0.017
+2019-12-12 05:21:35,183 train INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.979
+2019-12-12 05:21:36,961 train INFO: 
+Epoch 26
+2019-12-12 06:02:51,782 train INFO: Train loss: 0.11770, learning rate: 0.000043
+2019-12-12 06:07:33,579 train INFO: Val. loss: 0.07662 - any: 0.221 - intraparenchymal: 0.052 - intraventricular: 0.029 - subarachnoid: 0.063 - subdural: 0.077 - epidural: 0.017
+2019-12-12 06:07:33,664 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.977 - epidural: 0.977
+2019-12-12 06:07:34,731 train INFO: 
+Epoch 27
+2019-12-12 06:49:14,945 train INFO: Train loss: 0.11745, learning rate: 0.000024
+2019-12-12 06:53:57,666 train INFO: Val. loss: 0.07507 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 06:53:57,759 train INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.978
+2019-12-12 06:53:59,273 train INFO: 
+Epoch 28
+2019-12-12 07:35:42,398 train INFO: Train loss: 0.11563, learning rate: 0.000011
+2019-12-12 07:40:20,512 train INFO: Val. loss: 0.07565 - any: 0.217 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 07:40:20,603 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.979
+2019-12-12 07:40:21,303 train INFO: 
+Epoch 29
+2019-12-12 08:21:40,216 train INFO: Train loss: 0.11540, learning rate: 0.000003
+2019-12-12 08:26:20,129 train INFO: Val. loss: 0.07572 - any: 0.218 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 08:26:20,218 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.978 - epidural: 0.978
+2019-12-12 08:26:20,942 train INFO: 
+Epoch 30
+2019-12-12 09:07:36,462 train INFO: Train loss: 0.11402, learning rate: 0.000000
+2019-12-12 09:12:14,292 train INFO: Val. loss: 0.07517 - any: 0.216 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 09:12:14,377 train INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.978
+2019-12-12 09:18:14,923 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 09:18:16,858 valid INFO: resuming optimizer ...
+2019-12-12 09:18:20,403 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 09:23:05,762 valid INFO: Val. loss: 0.06434 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 09:23:05,842 valid INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.978
+2019-12-12 09:27:45,077 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 09:27:47,042 valid INFO: resuming optimizer ...
+2019-12-12 09:27:52,325 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 09:32:36,364 valid INFO: Val. loss: 0.06434 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 09:32:36,442 valid INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.978
+2019-12-12 09:44:07,900 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 09:44:09,798 valid INFO: resuming optimizer ...
+2019-12-12 09:44:14,340 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 09:50:39,057 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 09:50:40,926 valid INFO: resuming optimizer ...
+2019-12-12 09:50:44,493 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 09:55:29,139 valid INFO: Val. loss: 0.07507 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 10:03:49,499 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 10:03:51,398 valid INFO: resuming optimizer ...
+2019-12-12 10:03:55,235 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 10:08:30,055 valid INFO: Val. loss: 0.06434 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 11:50:01,578 valid INFO: => loading checkpoint weights/best_baseline_resnet50.pth
+2019-12-12 11:50:03,459 valid INFO: resuming optimizer ...
+2019-12-12 11:50:07,861 valid INFO: => loaded checkpoint 'weights/best_baseline_resnet50.pth' (epoch 27, best_metric: 0.07506842911243439)
+2019-12-12 11:54:48,865 valid INFO: Val. loss: 0.06434 - any: 0.215 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.077 - epidural: 0.017
+2019-12-12 11:54:48,950 valid INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.978 - epidural: 0.978
+2020-01-02 07:56:10,402 train INFO: 
+Epoch 1
+2020-01-02 08:37:15,039 train INFO: Train loss: 0.30299, learning rate: 0.000332
+2020-01-02 08:41:47,381 train INFO: Val. loss: 0.12921 - any: 0.398 - intraparenchymal: 0.100 - intraventricular: 0.081 - subarachnoid: 0.130 - subdural: 0.168 - epidural: 0.028
+2020-01-02 08:41:47,459 train INFO: Val. AUC - intraparenchymal: 0.947 - intraventricular: 0.944 - subarachnoid: 0.908 - subdural: 0.886 - epidural: 0.839
+2020-01-02 08:41:48,917 train INFO: 
+Epoch 2
+2020-01-02 09:22:50,769 train INFO: Train loss: 0.18423, learning rate: 0.000659
+2020-01-02 09:27:24,069 train INFO: Val. loss: 0.09968 - any: 0.302 - intraparenchymal: 0.084 - intraventricular: 0.065 - subarachnoid: 0.115 - subdural: 0.109 - epidural: 0.023
+2020-01-02 09:27:24,153 train INFO: Val. AUC - intraparenchymal: 0.966 - intraventricular: 0.972 - subarachnoid: 0.935 - subdural: 0.957 - epidural: 0.942
+2020-01-02 09:27:25,712 train INFO: 
+Epoch 3
+2020-01-02 10:08:31,791 train INFO: Train loss: 0.17165, learning rate: 0.000975
+2020-01-02 10:13:05,081 train INFO: Val. loss: 0.10022 - any: 0.300 - intraparenchymal: 0.085 - intraventricular: 0.064 - subarachnoid: 0.116 - subdural: 0.111 - epidural: 0.025
+2020-01-02 10:13:05,168 train INFO: Val. AUC - intraparenchymal: 0.970 - intraventricular: 0.977 - subarachnoid: 0.944 - subdural: 0.951 - epidural: 0.933
+2020-01-02 10:13:06,266 train INFO: 
+Epoch 4
+2020-01-02 10:54:17,847 train INFO: Train loss: 0.16311, learning rate: 0.000957
+2020-01-02 10:58:51,593 train INFO: Val. loss: 0.09922 - any: 0.333 - intraparenchymal: 0.079 - intraventricular: 0.053 - subarachnoid: 0.095 - subdural: 0.111 - epidural: 0.024
+2020-01-02 10:58:51,680 train INFO: Val. AUC - intraparenchymal: 0.968 - intraventricular: 0.982 - subarachnoid: 0.956 - subdural: 0.951 - epidural: 0.949
+2020-01-02 10:58:53,116 train INFO: 
+Epoch 5
+2020-01-02 11:40:02,948 train INFO: Train loss: 0.15335, learning rate: 0.000933
+2020-01-02 11:44:36,814 train INFO: Val. loss: 0.08349 - any: 0.268 - intraparenchymal: 0.069 - intraventricular: 0.045 - subarachnoid: 0.084 - subdural: 0.095 - epidural: 0.023
+2020-01-02 11:44:36,910 train INFO: Val. AUC - intraparenchymal: 0.975 - intraventricular: 0.984 - subarachnoid: 0.964 - subdural: 0.964 - epidural: 0.953
+2020-01-02 11:44:38,322 train INFO: 
+Epoch 6
+2020-01-02 12:25:48,513 train INFO: Train loss: 0.15003, learning rate: 0.000905
+2020-01-02 12:30:22,486 train INFO: Val. loss: 0.07851 - any: 0.250 - intraparenchymal: 0.062 - intraventricular: 0.044 - subarachnoid: 0.081 - subdural: 0.089 - epidural: 0.023
+2020-01-02 12:30:22,577 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.991 - subarachnoid: 0.969 - subdural: 0.970 - epidural: 0.959
+2020-01-02 12:30:23,958 train INFO: 
+Epoch 7
+2020-01-02 13:11:35,264 train INFO: Train loss: 0.14493, learning rate: 0.000872
+2020-01-02 13:16:08,810 train INFO: Val. loss: 0.08303 - any: 0.271 - intraparenchymal: 0.075 - intraventricular: 0.044 - subarachnoid: 0.078 - subdural: 0.091 - epidural: 0.022
+2020-01-02 13:16:08,893 train INFO: Val. AUC - intraparenchymal: 0.978 - intraventricular: 0.990 - subarachnoid: 0.970 - subdural: 0.967 - epidural: 0.962
+2020-01-02 13:16:09,843 train INFO: 
+Epoch 8
+2020-01-02 13:57:32,619 train INFO: Train loss: 0.14247, learning rate: 0.000835
+2020-01-02 14:02:06,377 train INFO: Val. loss: 0.07695 - any: 0.255 - intraparenchymal: 0.059 - intraventricular: 0.039 - subarachnoid: 0.078 - subdural: 0.088 - epidural: 0.020
+2020-01-02 14:02:06,466 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.991 - subarachnoid: 0.970 - subdural: 0.970 - epidural: 0.965
+2020-01-02 14:02:07,918 train INFO: 
+Epoch 9
+2020-01-02 14:43:11,648 train INFO: Train loss: 0.14029, learning rate: 0.000794
+2020-01-02 14:47:47,817 train INFO: Val. loss: 0.08055 - any: 0.267 - intraparenchymal: 0.067 - intraventricular: 0.041 - subarachnoid: 0.079 - subdural: 0.090 - epidural: 0.021
+2020-01-02 14:47:47,908 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.991 - subarachnoid: 0.969 - subdural: 0.971 - epidural: 0.963
+2020-01-02 14:47:48,586 train INFO: 
+Epoch 10
+2020-01-02 15:28:52,595 train INFO: Train loss: 0.13605, learning rate: 0.000750
+2020-01-02 15:33:24,725 train INFO: Val. loss: 0.07630 - any: 0.253 - intraparenchymal: 0.064 - intraventricular: 0.037 - subarachnoid: 0.074 - subdural: 0.085 - epidural: 0.021
+2020-01-02 15:33:24,811 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.993 - subarachnoid: 0.972 - subdural: 0.974 - epidural: 0.966
+2020-01-02 15:33:26,676 train INFO: 
+Epoch 11
+2020-01-02 16:14:32,124 train INFO: Train loss: 0.13725, learning rate: 0.000703
+2020-01-02 16:19:07,089 train INFO: Val. loss: 0.07746 - any: 0.258 - intraparenchymal: 0.057 - intraventricular: 0.039 - subarachnoid: 0.078 - subdural: 0.090 - epidural: 0.021
+2020-01-02 16:19:07,169 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.992 - subarachnoid: 0.971 - subdural: 0.970 - epidural: 0.966
+2020-01-02 16:19:07,862 train INFO: 
+Epoch 12
+2020-01-02 17:00:15,419 train INFO: Train loss: 0.13445, learning rate: 0.000655
+2020-01-02 17:04:49,141 train INFO: Val. loss: 0.07281 - any: 0.239 - intraparenchymal: 0.057 - intraventricular: 0.036 - subarachnoid: 0.073 - subdural: 0.086 - epidural: 0.019
+2020-01-02 17:04:49,223 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.993 - subarachnoid: 0.973 - subdural: 0.974 - epidural: 0.970
+2020-01-02 17:04:51,112 train INFO: 
+Epoch 13
+2020-01-02 17:46:21,777 train INFO: Train loss: 0.13113, learning rate: 0.000604
+2020-01-02 17:50:56,429 train INFO: Val. loss: 0.07917 - any: 0.261 - intraparenchymal: 0.057 - intraventricular: 0.035 - subarachnoid: 0.098 - subdural: 0.083 - epidural: 0.020
+2020-01-02 17:50:56,512 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.993 - subarachnoid: 0.967 - subdural: 0.975 - epidural: 0.972
+2020-01-02 17:50:57,203 train INFO: 
+Epoch 14
+2020-01-02 18:32:33,962 train INFO: Train loss: 0.13129, learning rate: 0.000552
+2020-01-02 18:37:08,829 train INFO: Val. loss: 0.07249 - any: 0.243 - intraparenchymal: 0.058 - intraventricular: 0.031 - subarachnoid: 0.072 - subdural: 0.083 - epidural: 0.020
+2020-01-02 18:37:08,921 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.993 - subarachnoid: 0.974 - subdural: 0.975 - epidural: 0.972
+2020-01-02 18:37:10,380 train INFO: 
+Epoch 15
+2020-01-02 19:18:26,235 train INFO: Train loss: 0.12959, learning rate: 0.000500
+2020-01-02 19:23:03,169 train INFO: Val. loss: 0.07217 - any: 0.243 - intraparenchymal: 0.057 - intraventricular: 0.034 - subarachnoid: 0.068 - subdural: 0.084 - epidural: 0.019
+2020-01-02 19:23:03,249 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.993 - subarachnoid: 0.977 - subdural: 0.974 - epidural: 0.970
+2020-01-02 19:23:04,695 train INFO: 
+Epoch 16
+2020-01-02 20:04:24,139 train INFO: Train loss: 0.12850, learning rate: 0.000448
+2020-01-02 20:08:59,277 train INFO: Val. loss: 0.07028 - any: 0.233 - intraparenchymal: 0.055 - intraventricular: 0.034 - subarachnoid: 0.071 - subdural: 0.080 - epidural: 0.018
+2020-01-02 20:08:59,364 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.993 - subarachnoid: 0.974 - subdural: 0.975 - epidural: 0.975
+2020-01-02 20:09:00,888 train INFO: 
+Epoch 17
+2020-01-02 20:50:18,871 train INFO: Train loss: 0.12639, learning rate: 0.000396
+2020-01-02 20:54:52,578 train INFO: Val. loss: 0.07110 - any: 0.235 - intraparenchymal: 0.054 - intraventricular: 0.033 - subarachnoid: 0.074 - subdural: 0.083 - epidural: 0.019
+2020-01-02 20:54:52,663 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.994 - subarachnoid: 0.980 - subdural: 0.975 - epidural: 0.973
+2020-01-02 20:54:53,711 train INFO: 
+Epoch 18
+2020-01-02 21:36:10,494 train INFO: Train loss: 0.12351, learning rate: 0.000346
+2020-01-02 21:40:45,041 train INFO: Val. loss: 0.06919 - any: 0.232 - intraparenchymal: 0.052 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.080 - epidural: 0.019
+2020-01-02 21:40:45,119 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.994 - subarachnoid: 0.978 - subdural: 0.976 - epidural: 0.974
+2020-01-02 21:40:46,553 train INFO: 
+Epoch 19
+2020-01-02 22:22:04,585 train INFO: Train loss: 0.12655, learning rate: 0.000297
+2020-01-02 22:26:38,053 train INFO: Val. loss: 0.06833 - any: 0.230 - intraparenchymal: 0.052 - intraventricular: 0.032 - subarachnoid: 0.066 - subdural: 0.080 - epidural: 0.020
+2020-01-02 22:26:38,141 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.994 - subarachnoid: 0.979 - subdural: 0.978 - epidural: 0.971
+2020-01-02 22:26:39,653 train INFO: 
+Epoch 20
+2020-01-02 23:07:57,767 train INFO: Train loss: 0.12162, learning rate: 0.000250
+2020-01-02 23:12:31,541 train INFO: Val. loss: 0.06719 - any: 0.224 - intraparenchymal: 0.052 - intraventricular: 0.033 - subarachnoid: 0.066 - subdural: 0.077 - epidural: 0.018
+2020-01-02 23:12:31,627 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.994 - subarachnoid: 0.978 - subdural: 0.979 - epidural: 0.976
+2020-01-02 23:12:33,079 train INFO: 
+Epoch 21
+2020-01-02 23:54:01,189 train INFO: Train loss: 0.12090, learning rate: 0.000206
+2020-01-02 23:58:36,197 train INFO: Val. loss: 0.06852 - any: 0.228 - intraparenchymal: 0.053 - intraventricular: 0.034 - subarachnoid: 0.065 - subdural: 0.080 - epidural: 0.018
+2020-01-02 23:58:36,281 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.978 - epidural: 0.973
+2020-01-02 23:58:36,992 train INFO: 
+Epoch 22
+2020-01-03 00:39:52,009 train INFO: Train loss: 0.12130, learning rate: 0.000165
+2020-01-03 00:44:25,657 train INFO: Val. loss: 0.06733 - any: 0.227 - intraparenchymal: 0.053 - intraventricular: 0.031 - subarachnoid: 0.064 - subdural: 0.078 - epidural: 0.018
+2020-01-03 00:44:25,738 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.978 - epidural: 0.973
+2020-01-03 00:44:26,651 train INFO: 
+Epoch 23
+2020-01-03 01:25:43,518 train INFO: Train loss: 0.11972, learning rate: 0.000128
+2020-01-03 01:30:16,830 train INFO: Val. loss: 0.06807 - any: 0.228 - intraparenchymal: 0.053 - intraventricular: 0.033 - subarachnoid: 0.066 - subdural: 0.078 - epidural: 0.018
+2020-01-03 01:30:16,913 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.995 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.974
+2020-01-03 01:30:17,676 train INFO: 
+Epoch 24
+2020-01-03 02:11:35,994 train INFO: Train loss: 0.12072, learning rate: 0.000095
+2020-01-03 02:16:10,053 train INFO: Val. loss: 0.06768 - any: 0.228 - intraparenchymal: 0.053 - intraventricular: 0.032 - subarachnoid: 0.065 - subdural: 0.078 - epidural: 0.018
+2020-01-03 02:16:10,142 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.994 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.975
+2020-01-03 02:16:11,111 train INFO: 
+Epoch 25
+2020-01-03 02:57:17,879 train INFO: Train loss: 0.11787, learning rate: 0.000067
+2020-01-03 03:01:49,811 train INFO: Val. loss: 0.06502 - any: 0.218 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.063 - subdural: 0.076 - epidural: 0.018
+2020-01-03 03:01:49,900 train INFO: Val. AUC - intraparenchymal: 0.988 - intraventricular: 0.995 - subarachnoid: 0.979 - subdural: 0.979 - epidural: 0.974
+2020-01-03 03:01:51,550 train INFO: 
+Epoch 26
+2020-01-03 03:42:51,974 train INFO: Train loss: 0.11723, learning rate: 0.000043
+2020-01-03 03:47:24,762 train INFO: Val. loss: 0.06460 - any: 0.217 - intraparenchymal: 0.050 - intraventricular: 0.031 - subarachnoid: 0.063 - subdural: 0.075 - epidural: 0.017
+2020-01-03 03:47:24,849 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.979 - epidural: 0.974
+2020-01-03 03:47:26,273 train INFO: 
+Epoch 27
+2020-01-03 04:28:44,048 train INFO: Train loss: 0.11642, learning rate: 0.000024
+2020-01-03 04:33:18,713 train INFO: Val. loss: 0.06446 - any: 0.216 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.063 - subdural: 0.075 - epidural: 0.017
+2020-01-03 04:33:18,796 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.979 - epidural: 0.975
+2020-01-03 04:33:20,588 train INFO: 
+Epoch 28
+2020-01-03 05:14:24,374 train INFO: Train loss: 0.11604, learning rate: 0.000011
+2020-01-03 05:18:55,653 train INFO: Val. loss: 0.06463 - any: 0.217 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.062 - subdural: 0.076 - epidural: 0.017
+2020-01-03 05:18:55,735 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.979 - epidural: 0.975
+2020-01-03 05:18:56,443 train INFO: 
+Epoch 29
+2020-01-03 05:59:52,026 train INFO: Train loss: 0.11592, learning rate: 0.000003
+2020-01-03 06:04:24,461 train INFO: Val. loss: 0.06531 - any: 0.220 - intraparenchymal: 0.050 - intraventricular: 0.030 - subarachnoid: 0.063 - subdural: 0.076 - epidural: 0.018
+2020-01-03 06:04:24,544 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.995 - subarachnoid: 0.980 - subdural: 0.979 - epidural: 0.975
+2020-01-03 06:04:25,534 train INFO: 
+Epoch 30
+2020-01-03 06:45:25,457 train INFO: Train loss: 0.11389, learning rate: 0.000000
+2020-01-03 06:49:59,145 train INFO: Val. loss: 0.06370 - any: 0.213 - intraparenchymal: 0.049 - intraventricular: 0.029 - subarachnoid: 0.061 - subdural: 0.075 - epidural: 0.017
+2020-01-03 06:49:59,231 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.995 - subarachnoid: 0.981 - subdural: 0.979 - epidural: 0.974
+2020-01-10 09:51:25,380 train INFO: 
+Epoch 1
+2020-01-10 10:31:10,736 train INFO: Train loss: 0.30557, learning rate: 0.000332
+2020-01-10 10:35:22,625 train INFO: Val. loss: 0.12870 - any: 0.393 - intraparenchymal: 0.108 - intraventricular: 0.084 - subarachnoid: 0.129 - subdural: 0.160 - epidural: 0.026
+2020-01-10 10:35:22,704 train INFO: Val. AUC - intraparenchymal: 0.937 - intraventricular: 0.938 - subarachnoid: 0.901 - subdural: 0.893 - epidural: 0.878
+2020-01-10 10:35:23,541 train INFO: 
+Epoch 2
+2020-01-10 11:15:00,825 train INFO: Train loss: 0.18973, learning rate: 0.000659
+2020-01-10 11:19:13,380 train INFO: Val. loss: 0.11783 - any: 0.382 - intraparenchymal: 0.093 - intraventricular: 0.071 - subarachnoid: 0.125 - subdural: 0.127 - epidural: 0.027
+2020-01-10 11:19:13,461 train INFO: Val. AUC - intraparenchymal: 0.951 - intraventricular: 0.962 - subarachnoid: 0.912 - subdural: 0.934 - epidural: 0.906
+2020-01-10 11:19:15,096 train INFO: 
+Epoch 3
+2020-01-10 11:58:53,240 train INFO: Train loss: 0.17414, learning rate: 0.000975
+2020-01-10 12:03:05,653 train INFO: Val. loss: 0.10493 - any: 0.336 - intraparenchymal: 0.091 - intraventricular: 0.064 - subarachnoid: 0.108 - subdural: 0.114 - epidural: 0.023
+2020-01-10 12:03:05,734 train INFO: Val. AUC - intraparenchymal: 0.960 - intraventricular: 0.972 - subarachnoid: 0.941 - subdural: 0.950 - epidural: 0.936
+2020-01-10 12:03:07,665 train INFO: 
+Epoch 4
+2020-01-10 12:42:47,614 train INFO: Train loss: 0.16268, learning rate: 0.000957
+2020-01-10 12:46:59,813 train INFO: Val. loss: 0.10954 - any: 0.358 - intraparenchymal: 0.094 - intraventricular: 0.070 - subarachnoid: 0.101 - subdural: 0.122 - epidural: 0.022
+2020-01-10 12:46:59,905 train INFO: Val. AUC - intraparenchymal: 0.957 - intraventricular: 0.969 - subarachnoid: 0.949 - subdural: 0.946 - epidural: 0.945
+2020-01-10 12:47:00,680 train INFO: 
+Epoch 5
+2020-01-10 13:26:41,073 train INFO: Train loss: 0.15073, learning rate: 0.000933
+2020-01-10 13:30:53,373 train INFO: Val. loss: 0.09525 - any: 0.315 - intraparenchymal: 0.074 - intraventricular: 0.049 - subarachnoid: 0.094 - subdural: 0.110 - epidural: 0.023
+2020-01-10 13:30:53,451 train INFO: Val. AUC - intraparenchymal: 0.969 - intraventricular: 0.983 - subarachnoid: 0.957 - subdural: 0.949 - epidural: 0.951
+2020-01-10 13:30:55,249 train INFO: 
+Epoch 6
+2020-01-10 14:10:37,032 train INFO: Train loss: 0.14401, learning rate: 0.000905
+2020-01-10 14:14:48,653 train INFO: Val. loss: 0.08940 - any: 0.292 - intraparenchymal: 0.067 - intraventricular: 0.050 - subarachnoid: 0.096 - subdural: 0.098 - epidural: 0.022
+2020-01-10 14:14:48,744 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.982 - subarachnoid: 0.957 - subdural: 0.966 - epidural: 0.946
+2020-01-10 14:14:50,749 train INFO: 
+Epoch 7
+2020-01-10 14:56:13,795 train INFO: Train loss: 0.13910, learning rate: 0.000872
+2020-01-10 15:00:52,549 train INFO: Val. loss: 0.08630 - any: 0.286 - intraparenchymal: 0.072 - intraventricular: 0.046 - subarachnoid: 0.084 - subdural: 0.094 - epidural: 0.022
+2020-01-10 15:00:52,634 train INFO: Val. AUC - intraparenchymal: 0.972 - intraventricular: 0.983 - subarachnoid: 0.964 - subdural: 0.967 - epidural: 0.954
+2020-01-10 15:00:54,668 train INFO: 
+Epoch 8
+2020-01-10 15:42:34,086 train INFO: Train loss: 0.13342, learning rate: 0.000835
+2020-01-10 15:47:15,333 train INFO: Val. loss: 0.08570 - any: 0.280 - intraparenchymal: 0.079 - intraventricular: 0.042 - subarachnoid: 0.084 - subdural: 0.095 - epidural: 0.021
+2020-01-10 15:47:15,413 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.988 - subarachnoid: 0.964 - subdural: 0.969 - epidural: 0.961
+2020-01-10 15:47:17,671 train INFO: 
+Epoch 9
+2020-01-10 16:29:05,625 train INFO: Train loss: 0.12966, learning rate: 0.000794
+2020-01-10 16:33:48,965 train INFO: Val. loss: 0.08706 - any: 0.276 - intraparenchymal: 0.069 - intraventricular: 0.051 - subarachnoid: 0.080 - subdural: 0.110 - epidural: 0.023
+2020-01-10 16:33:49,043 train INFO: Val. AUC - intraparenchymal: 0.978 - intraventricular: 0.986 - subarachnoid: 0.971 - subdural: 0.961 - epidural: 0.957
+2020-01-10 16:33:49,805 train INFO: 
+Epoch 10
+2020-01-10 17:15:31,429 train INFO: Train loss: 0.12413, learning rate: 0.000750
+2020-01-10 17:20:13,789 train INFO: Val. loss: 0.08501 - any: 0.274 - intraparenchymal: 0.064 - intraventricular: 0.048 - subarachnoid: 0.102 - subdural: 0.089 - epidural: 0.019
+2020-01-10 17:20:13,870 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.986 - subarachnoid: 0.958 - subdural: 0.972 - epidural: 0.968
+2020-01-10 17:20:15,757 train INFO: 
+Epoch 11
+2020-01-10 18:02:08,388 train INFO: Train loss: 0.12486, learning rate: 0.000703
+2020-01-10 18:06:49,649 train INFO: Val. loss: 0.08106 - any: 0.269 - intraparenchymal: 0.064 - intraventricular: 0.044 - subarachnoid: 0.084 - subdural: 0.087 - epidural: 0.020
+2020-01-10 18:06:49,724 train INFO: Val. AUC - intraparenchymal: 0.978 - intraventricular: 0.985 - subarachnoid: 0.963 - subdural: 0.972 - epidural: 0.967
+2020-01-10 18:06:51,070 train INFO: 
+Epoch 12
+2020-01-10 18:48:41,564 train INFO: Train loss: 0.11994, learning rate: 0.000655
+2020-01-10 18:53:23,413 train INFO: Val. loss: 0.07958 - any: 0.260 - intraparenchymal: 0.063 - intraventricular: 0.043 - subarachnoid: 0.080 - subdural: 0.090 - epidural: 0.020
+2020-01-10 18:53:23,493 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.988 - subarachnoid: 0.969 - subdural: 0.968 - epidural: 0.966
+2020-01-10 18:53:25,166 train INFO: 
+Epoch 13
+2020-01-10 19:35:19,185 train INFO: Train loss: 0.11588, learning rate: 0.000604
+2020-01-10 19:39:58,481 train INFO: Val. loss: 0.07837 - any: 0.261 - intraparenchymal: 0.064 - intraventricular: 0.038 - subarachnoid: 0.078 - subdural: 0.087 - epidural: 0.020
+2020-01-10 19:39:58,562 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.990 - subarachnoid: 0.971 - subdural: 0.972 - epidural: 0.965
+2020-01-10 19:40:00,579 train INFO: 
+Epoch 14
+2020-01-10 20:21:49,161 train INFO: Train loss: 0.11646, learning rate: 0.000552
+2020-01-10 20:26:20,349 train INFO: Val. loss: 0.07962 - any: 0.268 - intraparenchymal: 0.065 - intraventricular: 0.037 - subarachnoid: 0.077 - subdural: 0.090 - epidural: 0.020
+2020-01-10 20:26:20,426 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.990 - subarachnoid: 0.972 - subdural: 0.972 - epidural: 0.968
+2020-01-10 20:26:21,568 train INFO: 
+Epoch 15
+2020-01-10 21:08:13,820 train INFO: Train loss: 0.11314, learning rate: 0.000500
+2020-01-10 21:12:57,937 train INFO: Val. loss: 0.07672 - any: 0.256 - intraparenchymal: 0.059 - intraventricular: 0.039 - subarachnoid: 0.075 - subdural: 0.088 - epidural: 0.020
+2020-01-10 21:12:58,024 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.991 - subarachnoid: 0.973 - subdural: 0.972 - epidural: 0.968
+2020-01-10 21:12:59,978 train INFO: 
+Epoch 16
+2020-01-10 21:54:57,539 train INFO: Train loss: 0.11061, learning rate: 0.000448
+2020-01-10 21:59:43,005 train INFO: Val. loss: 0.07664 - any: 0.258 - intraparenchymal: 0.061 - intraventricular: 0.038 - subarachnoid: 0.074 - subdural: 0.086 - epidural: 0.019
+2020-01-10 21:59:43,082 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.991 - subarachnoid: 0.974 - subdural: 0.972 - epidural: 0.971
+2020-01-10 21:59:45,123 train INFO: 
+Epoch 17
+2020-01-10 22:41:45,461 train INFO: Train loss: 0.11243, learning rate: 0.000396
+2020-01-10 22:46:27,057 train INFO: Val. loss: 0.07683 - any: 0.257 - intraparenchymal: 0.064 - intraventricular: 0.038 - subarachnoid: 0.077 - subdural: 0.083 - epidural: 0.019
+2020-01-10 22:46:27,160 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.991 - subarachnoid: 0.973 - subdural: 0.974 - epidural: 0.975
+2020-01-10 22:46:27,956 train INFO: 
+Epoch 18
+2020-01-10 23:28:18,817 train INFO: Train loss: 0.10872, learning rate: 0.000346
+2020-01-10 23:32:48,553 train INFO: Val. loss: 0.07350 - any: 0.244 - intraparenchymal: 0.059 - intraventricular: 0.036 - subarachnoid: 0.072 - subdural: 0.084 - epidural: 0.019
+2020-01-10 23:32:48,629 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.993 - subarachnoid: 0.976 - subdural: 0.975 - epidural: 0.971
+2020-01-10 23:32:50,424 train INFO: 
+Epoch 19
+2020-01-11 00:14:46,283 train INFO: Train loss: 0.10597, learning rate: 0.000297
+2020-01-11 00:19:29,618 train INFO: Val. loss: 0.07587 - any: 0.254 - intraparenchymal: 0.058 - intraventricular: 0.040 - subarachnoid: 0.076 - subdural: 0.085 - epidural: 0.019
+2020-01-11 00:19:29,715 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.991 - subarachnoid: 0.976 - subdural: 0.976 - epidural: 0.971
+2020-01-11 00:19:30,993 train INFO: 
+Epoch 20
+2020-01-11 01:01:30,120 train INFO: Train loss: 0.10494, learning rate: 0.000250
+2020-01-11 01:06:14,085 train INFO: Val. loss: 0.06985 - any: 0.233 - intraparenchymal: 0.053 - intraventricular: 0.035 - subarachnoid: 0.067 - subdural: 0.081 - epidural: 0.019
+2020-01-11 01:06:14,205 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.977 - epidural: 0.971
+2020-01-11 01:06:15,737 train INFO: 
+Epoch 21
+2020-01-11 01:48:13,197 train INFO: Train loss: 0.10357, learning rate: 0.000206
+2020-01-11 01:52:55,662 train INFO: Val. loss: 0.06976 - any: 0.234 - intraparenchymal: 0.054 - intraventricular: 0.034 - subarachnoid: 0.069 - subdural: 0.079 - epidural: 0.018
+2020-01-11 01:52:55,745 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.992 - subarachnoid: 0.977 - subdural: 0.978 - epidural: 0.973
+2020-01-11 01:52:57,612 train INFO: 
+Epoch 22
+2020-01-11 02:34:50,102 train INFO: Train loss: 0.09956, learning rate: 0.000165
+2020-01-11 02:39:33,017 train INFO: Val. loss: 0.07003 - any: 0.233 - intraparenchymal: 0.056 - intraventricular: 0.034 - subarachnoid: 0.069 - subdural: 0.079 - epidural: 0.019
+2020-01-11 02:39:33,098 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.992 - subarachnoid: 0.977 - subdural: 0.977 - epidural: 0.975
+2020-01-11 02:39:33,878 train INFO: 
+Epoch 23
+2020-01-11 03:21:20,294 train INFO: Train loss: 0.09721, learning rate: 0.000128
+2020-01-11 03:26:02,025 train INFO: Val. loss: 0.07209 - any: 0.246 - intraparenchymal: 0.055 - intraventricular: 0.033 - subarachnoid: 0.072 - subdural: 0.080 - epidural: 0.018
+2020-01-11 03:26:02,119 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.992 - subarachnoid: 0.976 - subdural: 0.977 - epidural: 0.975
+2020-01-11 03:26:02,871 train INFO: 
+Epoch 24
+2020-01-11 04:05:42,932 train INFO: Train loss: 0.09931, learning rate: 0.000095
+2020-01-11 04:09:56,753 train INFO: Val. loss: 0.07016 - any: 0.236 - intraparenchymal: 0.055 - intraventricular: 0.033 - subarachnoid: 0.069 - subdural: 0.080 - epidural: 0.018
+2020-01-11 04:09:56,829 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.993 - subarachnoid: 0.977 - subdural: 0.978 - epidural: 0.973
+2020-01-11 04:09:57,587 train INFO: 
+Epoch 25
+2020-01-11 04:49:42,020 train INFO: Train loss: 0.09789, learning rate: 0.000067
+2020-01-11 04:53:55,025 train INFO: Val. loss: 0.06803 - any: 0.227 - intraparenchymal: 0.054 - intraventricular: 0.034 - subarachnoid: 0.067 - subdural: 0.077 - epidural: 0.018
+2020-01-11 04:53:55,106 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.979 - epidural: 0.976
+2020-01-11 04:53:57,183 train INFO: 
+Epoch 26
+2020-01-11 05:33:43,374 train INFO: Train loss: 0.09527, learning rate: 0.000043
+2020-01-11 05:37:57,206 train INFO: Val. loss: 0.06945 - any: 0.232 - intraparenchymal: 0.055 - intraventricular: 0.035 - subarachnoid: 0.068 - subdural: 0.078 - epidural: 0.018
+2020-01-11 05:37:57,293 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.978 - epidural: 0.977
+2020-01-11 05:37:58,058 train INFO: 
+Epoch 27
+2020-01-11 06:17:46,997 train INFO: Train loss: 0.09670, learning rate: 0.000024
+2020-01-11 06:22:02,213 train INFO: Val. loss: 0.06867 - any: 0.231 - intraparenchymal: 0.053 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.078 - epidural: 0.018
+2020-01-11 06:22:02,291 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.979 - epidural: 0.975
+2020-01-11 06:22:03,287 train INFO: 
+Epoch 28
+2020-01-11 07:03:49,909 train INFO: Train loss: 0.09464, learning rate: 0.000011
+2020-01-11 07:08:31,297 train INFO: Val. loss: 0.06853 - any: 0.230 - intraparenchymal: 0.053 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.077 - epidural: 0.018
+2020-01-11 07:08:31,379 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.979 - epidural: 0.976
+2020-01-11 07:08:32,181 train INFO: 
+Epoch 29
+2020-01-11 07:50:24,115 train INFO: Train loss: 0.09552, learning rate: 0.000003
+2020-01-11 07:55:06,557 train INFO: Val. loss: 0.06812 - any: 0.228 - intraparenchymal: 0.053 - intraventricular: 0.033 - subarachnoid: 0.067 - subdural: 0.077 - epidural: 0.018
+2020-01-11 07:55:06,638 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.979 - epidural: 0.976
+2020-01-11 07:55:07,610 train INFO: 
+Epoch 30
+2020-01-11 08:36:57,166 train INFO: Train loss: 0.09572, learning rate: 0.000000
+2020-01-11 08:41:38,117 train INFO: Val. loss: 0.06852 - any: 0.229 - intraparenchymal: 0.054 - intraventricular: 0.033 - subarachnoid: 0.067 - subdural: 0.077 - epidural: 0.018
+2020-01-11 08:41:38,191 train INFO: Val. AUC - intraparenchymal: 0.987 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.979 - epidural: 0.976
+2020-01-11 08:50:43,268 train INFO: 
+Epoch 1
+2020-01-11 09:31:26,600 train INFO: Train loss: 0.31349, learning rate: 0.000332
+2020-01-11 09:35:58,365 train INFO: Val. loss: 0.13568 - any: 0.429 - intraparenchymal: 0.109 - intraventricular: 0.076 - subarachnoid: 0.133 - subdural: 0.173 - epidural: 0.029
+2020-01-11 09:35:58,455 train INFO: Val. AUC - intraparenchymal: 0.932 - intraventricular: 0.950 - subarachnoid: 0.892 - subdural: 0.859 - epidural: 0.799
+2020-01-11 09:36:00,400 train INFO: 
+Epoch 2
+2020-01-11 10:16:03,864 train INFO: Train loss: 0.19947, learning rate: 0.000659
+2020-01-11 10:20:20,642 train INFO: Val. loss: 0.11957 - any: 0.381 - intraparenchymal: 0.094 - intraventricular: 0.070 - subarachnoid: 0.135 - subdural: 0.131 - epidural: 0.027
+2020-01-11 10:20:20,722 train INFO: Val. AUC - intraparenchymal: 0.951 - intraventricular: 0.962 - subarachnoid: 0.897 - subdural: 0.933 - epidural: 0.899
+2020-01-11 10:20:22,689 train INFO: 
+Epoch 3
+2020-01-11 11:00:42,860 train INFO: Train loss: 0.18822, learning rate: 0.000975
+2020-01-11 11:04:57,805 train INFO: Val. loss: 0.12965 - any: 0.448 - intraparenchymal: 0.096 - intraventricular: 0.068 - subarachnoid: 0.126 - subdural: 0.146 - epidural: 0.024
+2020-01-11 11:04:57,890 train INFO: Val. AUC - intraparenchymal: 0.955 - intraventricular: 0.964 - subarachnoid: 0.928 - subdural: 0.930 - epidural: 0.936
+2020-01-11 11:04:58,862 train INFO: 
+Epoch 4
+2020-01-11 11:45:09,230 train INFO: Train loss: 0.17582, learning rate: 0.000957
+2020-01-11 11:49:21,505 train INFO: Val. loss: 0.10500 - any: 0.338 - intraparenchymal: 0.087 - intraventricular: 0.063 - subarachnoid: 0.111 - subdural: 0.113 - epidural: 0.023
+2020-01-11 11:49:21,585 train INFO: Val. AUC - intraparenchymal: 0.962 - intraventricular: 0.974 - subarachnoid: 0.938 - subdural: 0.955 - epidural: 0.934
+2020-01-11 11:49:23,589 train INFO: 
+Epoch 5
+2020-01-11 12:29:43,345 train INFO: Train loss: 0.16273, learning rate: 0.000933
+2020-01-11 12:33:52,450 train INFO: Val. loss: 0.10085 - any: 0.312 - intraparenchymal: 0.083 - intraventricular: 0.060 - subarachnoid: 0.115 - subdural: 0.112 - epidural: 0.024
+2020-01-11 12:33:52,528 train INFO: Val. AUC - intraparenchymal: 0.967 - intraventricular: 0.980 - subarachnoid: 0.954 - subdural: 0.954 - epidural: 0.941
+2020-01-11 12:33:54,573 train INFO: 
+Epoch 6
+2020-01-11 13:14:16,377 train INFO: Train loss: 0.15267, learning rate: 0.000905
+2020-01-11 13:18:26,629 train INFO: Val. loss: 0.12496 - any: 0.429 - intraparenchymal: 0.086 - intraventricular: 0.063 - subarachnoid: 0.147 - subdural: 0.125 - epidural: 0.025
+2020-01-11 13:18:26,705 train INFO: Val. AUC - intraparenchymal: 0.966 - intraventricular: 0.974 - subarachnoid: 0.927 - subdural: 0.953 - epidural: 0.931
+2020-01-11 13:18:27,479 train INFO: 
+Epoch 7
+2020-01-11 13:28:43,071 train INFO: 
+Epoch 1
+2020-01-11 14:10:38,917 train INFO: Train loss: 0.30480, learning rate: 0.000332
+2020-01-11 14:15:13,593 train INFO: Val. loss: 0.14340 - any: 0.467 - intraparenchymal: 0.111 - intraventricular: 0.088 - subarachnoid: 0.137 - subdural: 0.173 - epidural: 0.027
+2020-01-11 14:15:13,671 train INFO: Val. AUC - intraparenchymal: 0.940 - intraventricular: 0.939 - subarachnoid: 0.895 - subdural: 0.893 - epidural: 0.875
+2020-01-11 14:15:15,449 train INFO: 
+Epoch 2
+2020-01-11 14:57:13,484 train INFO: Train loss: 0.18528, learning rate: 0.000659
+2020-01-11 15:01:54,533 train INFO: Val. loss: 0.11101 - any: 0.336 - intraparenchymal: 0.100 - intraventricular: 0.072 - subarachnoid: 0.126 - subdural: 0.119 - epidural: 0.025
+2020-01-11 15:01:54,615 train INFO: Val. AUC - intraparenchymal: 0.954 - intraventricular: 0.962 - subarachnoid: 0.917 - subdural: 0.948 - epidural: 0.923
+2020-01-11 15:01:56,616 train INFO: 
+Epoch 3
+2020-01-11 15:43:23,571 train INFO: Train loss: 0.17320, learning rate: 0.000975
+2020-01-11 15:47:59,033 train INFO: Val. loss: 0.11489 - any: 0.382 - intraparenchymal: 0.088 - intraventricular: 0.064 - subarachnoid: 0.117 - subdural: 0.131 - epidural: 0.023
+2020-01-11 15:47:59,110 train INFO: Val. AUC - intraparenchymal: 0.963 - intraventricular: 0.974 - subarachnoid: 0.935 - subdural: 0.944 - epidural: 0.933
+2020-01-11 15:47:59,978 train INFO: 
+Epoch 4
+2020-01-11 16:29:54,810 train INFO: Train loss: 0.16140, learning rate: 0.000957
+2020-01-11 16:34:30,400 train INFO: Val. loss: 0.09834 - any: 0.309 - intraparenchymal: 0.085 - intraventricular: 0.063 - subarachnoid: 0.103 - subdural: 0.105 - epidural: 0.023
+2020-01-11 16:34:30,486 train INFO: Val. AUC - intraparenchymal: 0.966 - intraventricular: 0.977 - subarachnoid: 0.945 - subdural: 0.957 - epidural: 0.933
+2020-01-11 16:34:32,268 train INFO: 
+Epoch 5
+2020-01-11 17:16:26,449 train INFO: Train loss: 0.15190, learning rate: 0.000933
+2020-01-11 17:21:07,393 train INFO: Val. loss: 0.09463 - any: 0.301 - intraparenchymal: 0.079 - intraventricular: 0.051 - subarachnoid: 0.106 - subdural: 0.103 - epidural: 0.023
+2020-01-11 17:21:07,472 train INFO: Val. AUC - intraparenchymal: 0.968 - intraventricular: 0.981 - subarachnoid: 0.950 - subdural: 0.962 - epidural: 0.947
+2020-01-11 17:21:09,387 train INFO: 
+Epoch 6
+2020-01-11 18:03:02,606 train INFO: Train loss: 0.14287, learning rate: 0.000905
+2020-01-11 18:07:42,209 train INFO: Val. loss: 0.10251 - any: 0.347 - intraparenchymal: 0.077 - intraventricular: 0.052 - subarachnoid: 0.110 - subdural: 0.111 - epidural: 0.021
+2020-01-11 18:07:42,322 train INFO: Val. AUC - intraparenchymal: 0.969 - intraventricular: 0.980 - subarachnoid: 0.950 - subdural: 0.961 - epidural: 0.959
+2020-01-11 18:07:43,161 train INFO: 
+Epoch 7
+2020-01-11 18:49:36,605 train INFO: Train loss: 0.13694, learning rate: 0.000872
+2020-01-11 18:54:11,149 train INFO: Val. loss: 0.08755 - any: 0.292 - intraparenchymal: 0.073 - intraventricular: 0.051 - subarachnoid: 0.083 - subdural: 0.092 - epidural: 0.022
+2020-01-11 18:54:11,227 train INFO: Val. AUC - intraparenchymal: 0.973 - intraventricular: 0.982 - subarachnoid: 0.966 - subdural: 0.969 - epidural: 0.957
+2020-01-11 18:54:12,964 train INFO: 
+Epoch 8
+2020-01-11 19:35:59,339 train INFO: Train loss: 0.13396, learning rate: 0.000835
+2020-01-11 19:40:33,761 train INFO: Val. loss: 0.10733 - any: 0.372 - intraparenchymal: 0.077 - intraventricular: 0.049 - subarachnoid: 0.114 - subdural: 0.118 - epidural: 0.022
+2020-01-11 19:40:33,836 train INFO: Val. AUC - intraparenchymal: 0.971 - intraventricular: 0.985 - subarachnoid: 0.953 - subdural: 0.959 - epidural: 0.963
+2020-01-11 19:40:34,608 train INFO: 
+Epoch 9
+2020-01-11 20:21:57,620 train INFO: Train loss: 0.13186, learning rate: 0.000794
+2020-01-11 20:26:38,297 train INFO: Val. loss: 0.08851 - any: 0.294 - intraparenchymal: 0.069 - intraventricular: 0.047 - subarachnoid: 0.084 - subdural: 0.103 - epidural: 0.023
+2020-01-11 20:26:38,380 train INFO: Val. AUC - intraparenchymal: 0.976 - intraventricular: 0.988 - subarachnoid: 0.964 - subdural: 0.965 - epidural: 0.948
+2020-01-11 20:26:39,312 train INFO: 
+Epoch 10
+2020-01-11 21:08:32,835 train INFO: Train loss: 0.12836, learning rate: 0.000750
+2020-01-11 21:13:15,517 train INFO: Val. loss: 0.08623 - any: 0.282 - intraparenchymal: 0.070 - intraventricular: 0.047 - subarachnoid: 0.094 - subdural: 0.090 - epidural: 0.020
+2020-01-11 21:13:15,613 train INFO: Val. AUC - intraparenchymal: 0.978 - intraventricular: 0.987 - subarachnoid: 0.965 - subdural: 0.970 - epidural: 0.962
+2020-01-11 21:13:17,190 train INFO: 
+Epoch 11
+2020-01-11 21:55:06,817 train INFO: Train loss: 0.12432, learning rate: 0.000703
+2020-01-11 21:59:44,473 train INFO: Val. loss: 0.08124 - any: 0.272 - intraparenchymal: 0.066 - intraventricular: 0.042 - subarachnoid: 0.079 - subdural: 0.090 - epidural: 0.020
+2020-01-11 21:59:44,550 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.988 - subarachnoid: 0.968 - subdural: 0.971 - epidural: 0.962
+2020-01-11 21:59:46,303 train INFO: 
+Epoch 12
+2020-01-11 22:41:39,647 train INFO: Train loss: 0.12077, learning rate: 0.000655
+2020-01-11 22:46:18,830 train INFO: Val. loss: 0.08273 - any: 0.277 - intraparenchymal: 0.062 - intraventricular: 0.043 - subarachnoid: 0.080 - subdural: 0.094 - epidural: 0.022
+2020-01-11 22:46:18,908 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.987 - subarachnoid: 0.967 - subdural: 0.966 - epidural: 0.944
+2020-01-11 22:46:19,713 train INFO: 
+Epoch 13
+2020-01-11 23:28:11,458 train INFO: Train loss: 0.11712, learning rate: 0.000604
+2020-01-11 23:32:49,101 train INFO: Val. loss: 0.08113 - any: 0.269 - intraparenchymal: 0.069 - intraventricular: 0.046 - subarachnoid: 0.078 - subdural: 0.085 - epidural: 0.021
+2020-01-11 23:32:49,185 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.988 - subarachnoid: 0.969 - subdural: 0.973 - epidural: 0.959
+2020-01-11 23:32:51,154 train INFO: 
+Epoch 14
+2020-01-12 00:14:39,514 train INFO: Train loss: 0.11518, learning rate: 0.000552
+2020-01-12 00:19:19,425 train INFO: Val. loss: 0.07914 - any: 0.265 - intraparenchymal: 0.065 - intraventricular: 0.037 - subarachnoid: 0.078 - subdural: 0.088 - epidural: 0.020
+2020-01-12 00:19:19,511 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.991 - subarachnoid: 0.972 - subdural: 0.974 - epidural: 0.969
+2020-01-12 00:19:21,417 train INFO: 
+Epoch 15
+2020-01-12 01:01:10,277 train INFO: Train loss: 0.11279, learning rate: 0.000500
+2020-01-12 01:05:47,237 train INFO: Val. loss: 0.08183 - any: 0.280 - intraparenchymal: 0.065 - intraventricular: 0.040 - subarachnoid: 0.076 - subdural: 0.092 - epidural: 0.020
+2020-01-12 01:05:47,338 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.989 - subarachnoid: 0.973 - subdural: 0.974 - epidural: 0.966
+2020-01-12 01:05:48,372 train INFO: 
+Epoch 16
+2020-01-12 01:47:24,874 train INFO: Train loss: 0.11006, learning rate: 0.000448
+2020-01-12 01:52:06,401 train INFO: Val. loss: 0.07946 - any: 0.268 - intraparenchymal: 0.066 - intraventricular: 0.042 - subarachnoid: 0.075 - subdural: 0.087 - epidural: 0.019
+2020-01-12 01:52:06,478 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.991 - subarachnoid: 0.974 - subdural: 0.975 - epidural: 0.968
+2020-01-12 01:52:07,240 train INFO: 
+Epoch 17
+2020-01-12 02:33:52,059 train INFO: Train loss: 0.10908, learning rate: 0.000396
+2020-01-12 02:38:33,037 train INFO: Val. loss: 0.08085 - any: 0.271 - intraparenchymal: 0.067 - intraventricular: 0.041 - subarachnoid: 0.078 - subdural: 0.089 - epidural: 0.020
+2020-01-12 02:38:33,118 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.990 - subarachnoid: 0.972 - subdural: 0.973 - epidural: 0.968
+2020-01-12 02:38:34,182 train INFO: 
+Epoch 18
+2020-01-12 03:20:21,735 train INFO: Train loss: 0.10732, learning rate: 0.000346
+2020-01-12 03:24:56,646 train INFO: Val. loss: 0.07559 - any: 0.256 - intraparenchymal: 0.060 - intraventricular: 0.036 - subarachnoid: 0.072 - subdural: 0.087 - epidural: 0.019
+2020-01-12 03:24:56,734 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.992 - subarachnoid: 0.976 - subdural: 0.975 - epidural: 0.972
+2020-01-12 03:24:58,831 train INFO: 
+Epoch 19
+2020-01-12 04:06:10,267 train INFO: Train loss: 0.10608, learning rate: 0.000297
+2020-01-12 04:10:52,006 train INFO: Val. loss: 0.07518 - any: 0.254 - intraparenchymal: 0.058 - intraventricular: 0.037 - subarachnoid: 0.074 - subdural: 0.087 - epidural: 0.018
+2020-01-12 04:10:52,089 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.975 - subdural: 0.974 - epidural: 0.976
+2020-01-12 04:10:53,904 train INFO: 
+Epoch 20
+2020-01-12 04:52:37,943 train INFO: Train loss: 0.10277, learning rate: 0.000250
+2020-01-12 04:57:18,102 train INFO: Val. loss: 0.07545 - any: 0.256 - intraparenchymal: 0.058 - intraventricular: 0.035 - subarachnoid: 0.071 - subdural: 0.088 - epidural: 0.019
+2020-01-12 04:57:18,185 train INFO: Val. AUC - intraparenchymal: 0.985 - intraventricular: 0.992 - subarachnoid: 0.976 - subdural: 0.974 - epidural: 0.973
+2020-01-12 04:57:19,363 train INFO: 
+Epoch 21
+2020-01-12 05:38:58,287 train INFO: Train loss: 0.10256, learning rate: 0.000206
+2020-01-12 05:43:32,241 train INFO: Val. loss: 0.07473 - any: 0.253 - intraparenchymal: 0.060 - intraventricular: 0.034 - subarachnoid: 0.070 - subdural: 0.086 - epidural: 0.020
+2020-01-12 05:43:32,319 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.977 - subdural: 0.976 - epidural: 0.971
+2020-01-12 05:43:34,467 train INFO: 
+Epoch 22
+2020-01-12 06:25:15,022 train INFO: Train loss: 0.09978, learning rate: 0.000165
+2020-01-12 06:29:54,185 train INFO: Val. loss: 0.07527 - any: 0.252 - intraparenchymal: 0.063 - intraventricular: 0.037 - subarachnoid: 0.072 - subdural: 0.084 - epidural: 0.019
+2020-01-12 06:29:54,262 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.975 - subdural: 0.976 - epidural: 0.974
+2020-01-12 06:29:54,990 train INFO: 
+Epoch 23
+2020-01-12 07:11:39,863 train INFO: Train loss: 0.10122, learning rate: 0.000128
+2020-01-12 07:16:19,382 train INFO: Val. loss: 0.07150 - any: 0.243 - intraparenchymal: 0.055 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.083 - epidural: 0.017
+2020-01-12 07:16:19,465 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.978 - subdural: 0.977 - epidural: 0.977
+2020-01-12 07:32:23,847 train INFO: 
+Epoch 1
+2020-01-12 08:13:36,082 train INFO: Train loss: 0.30584, learning rate: 0.000332
+2020-01-12 08:18:09,109 train INFO: Val. loss: 0.13241 - any: 0.415 - intraparenchymal: 0.107 - intraventricular: 0.081 - subarachnoid: 0.134 - subdural: 0.163 - epidural: 0.027
+2020-01-12 08:18:09,192 train INFO: Val. AUC - intraparenchymal: 0.939 - intraventricular: 0.944 - subarachnoid: 0.887 - subdural: 0.890 - epidural: 0.865
+2020-01-12 08:18:10,667 train INFO: 
+Epoch 2
+2020-01-12 08:59:19,506 train INFO: Train loss: 0.18736, learning rate: 0.000659
+2020-01-12 09:03:55,345 train INFO: Val. loss: 0.12425 - any: 0.385 - intraparenchymal: 0.104 - intraventricular: 0.084 - subarachnoid: 0.126 - subdural: 0.147 - epidural: 0.025
+2020-01-12 09:03:55,421 train INFO: Val. AUC - intraparenchymal: 0.956 - intraventricular: 0.955 - subarachnoid: 0.914 - subdural: 0.908 - epidural: 0.914
+2020-01-12 09:03:57,562 train INFO: 
+Epoch 3
+2020-01-12 09:45:07,419 train INFO: Train loss: 0.17525, learning rate: 0.000975
+2020-01-12 09:49:42,286 train INFO: Val. loss: 0.12702 - any: 0.431 - intraparenchymal: 0.101 - intraventricular: 0.074 - subarachnoid: 0.130 - subdural: 0.129 - epidural: 0.024
+2020-01-12 09:49:42,365 train INFO: Val. AUC - intraparenchymal: 0.953 - intraventricular: 0.959 - subarachnoid: 0.920 - subdural: 0.942 - epidural: 0.929
+2020-01-12 09:49:43,560 train INFO: 
+Epoch 4
+2020-01-12 10:30:58,456 train INFO: Train loss: 0.16357, learning rate: 0.000957
+2020-01-12 10:35:32,889 train INFO: Val. loss: 0.11931 - any: 0.394 - intraparenchymal: 0.087 - intraventricular: 0.065 - subarachnoid: 0.114 - subdural: 0.148 - epidural: 0.027
+2020-01-12 10:35:32,967 train INFO: Val. AUC - intraparenchymal: 0.964 - intraventricular: 0.969 - subarachnoid: 0.935 - subdural: 0.938 - epidural: 0.932
+2020-01-12 10:35:34,457 train INFO: 
+Epoch 5
+2020-01-12 11:17:00,072 train INFO: Train loss: 0.15601, learning rate: 0.000933
+2020-01-12 11:21:35,939 train INFO: Val. loss: 0.09527 - any: 0.305 - intraparenchymal: 0.083 - intraventricular: 0.056 - subarachnoid: 0.096 - subdural: 0.103 - epidural: 0.023
+2020-01-12 11:21:36,017 train INFO: Val. AUC - intraparenchymal: 0.971 - intraventricular: 0.977 - subarachnoid: 0.953 - subdural: 0.960 - epidural: 0.952
+2020-01-12 11:21:37,851 train INFO: 
+Epoch 6
+2020-01-12 12:02:59,750 train INFO: Train loss: 0.14499, learning rate: 0.000905
+2020-01-12 12:07:34,011 train INFO: Val. loss: 0.09320 - any: 0.296 - intraparenchymal: 0.083 - intraventricular: 0.054 - subarachnoid: 0.093 - subdural: 0.104 - epidural: 0.023
+2020-01-12 12:07:34,090 train INFO: Val. AUC - intraparenchymal: 0.968 - intraventricular: 0.983 - subarachnoid: 0.962 - subdural: 0.960 - epidural: 0.945
+2020-01-12 12:07:36,392 train INFO: 
+Epoch 7
+2020-01-12 12:48:58,276 train INFO: Train loss: 0.14137, learning rate: 0.000872
+2020-01-12 12:53:35,146 train INFO: Val. loss: 0.10335 - any: 0.355 - intraparenchymal: 0.084 - intraventricular: 0.056 - subarachnoid: 0.100 - subdural: 0.105 - epidural: 0.024
+2020-01-12 12:53:35,240 train INFO: Val. AUC - intraparenchymal: 0.966 - intraventricular: 0.979 - subarachnoid: 0.953 - subdural: 0.961 - epidural: 0.946
+2020-01-12 12:53:36,028 train INFO: 
+Epoch 8
+2020-01-12 13:35:07,338 train INFO: Train loss: 0.13796, learning rate: 0.000835
+2020-01-12 13:39:41,624 train INFO: Val. loss: 0.09126 - any: 0.305 - intraparenchymal: 0.072 - intraventricular: 0.049 - subarachnoid: 0.086 - subdural: 0.105 - epidural: 0.021
+2020-01-12 13:39:41,703 train INFO: Val. AUC - intraparenchymal: 0.972 - intraventricular: 0.982 - subarachnoid: 0.962 - subdural: 0.960 - epidural: 0.954
+2020-01-12 13:39:43,429 train INFO: 
+Epoch 9
+2020-01-12 14:21:07,947 train INFO: Train loss: 0.13289, learning rate: 0.000794
+2020-01-12 14:25:42,937 train INFO: Val. loss: 0.10514 - any: 0.351 - intraparenchymal: 0.083 - intraventricular: 0.056 - subarachnoid: 0.122 - subdural: 0.102 - epidural: 0.023
+2020-01-12 14:25:43,034 train INFO: Val. AUC - intraparenchymal: 0.968 - intraventricular: 0.981 - subarachnoid: 0.948 - subdural: 0.965 - epidural: 0.952
+2020-01-12 14:25:43,724 train INFO: 
+Epoch 10
+2020-01-12 15:07:16,408 train INFO: Train loss: 0.13195, learning rate: 0.000750
+2020-01-12 15:11:51,645 train INFO: Val. loss: 0.08765 - any: 0.294 - intraparenchymal: 0.070 - intraventricular: 0.045 - subarachnoid: 0.087 - subdural: 0.095 - epidural: 0.022
+2020-01-12 15:11:51,727 train INFO: Val. AUC - intraparenchymal: 0.975 - intraventricular: 0.986 - subarachnoid: 0.961 - subdural: 0.964 - epidural: 0.957
+2020-01-12 15:11:54,088 train INFO: 
+Epoch 11
+2020-01-12 15:53:18,942 train INFO: Train loss: 0.12583, learning rate: 0.000703
+2020-01-12 15:57:53,393 train INFO: Val. loss: 0.08939 - any: 0.304 - intraparenchymal: 0.066 - intraventricular: 0.045 - subarachnoid: 0.082 - subdural: 0.106 - epidural: 0.022
+2020-01-12 15:57:53,473 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.988 - subarachnoid: 0.968 - subdural: 0.965 - epidural: 0.960
+2020-01-12 15:57:54,241 train INFO: 
+Epoch 12
+2020-01-12 16:39:18,528 train INFO: Train loss: 0.12326, learning rate: 0.000655
+2020-01-12 16:43:52,521 train INFO: Val. loss: 0.08167 - any: 0.270 - intraparenchymal: 0.066 - intraventricular: 0.040 - subarachnoid: 0.081 - subdural: 0.094 - epidural: 0.021
+2020-01-12 16:43:52,606 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.989 - subarachnoid: 0.967 - subdural: 0.972 - epidural: 0.961
+2020-01-12 16:43:54,362 train INFO: 
+Epoch 13
+2020-01-12 17:25:14,105 train INFO: Train loss: 0.11971, learning rate: 0.000604
+2020-01-12 17:29:48,211 train INFO: Val. loss: 0.08295 - any: 0.272 - intraparenchymal: 0.066 - intraventricular: 0.047 - subarachnoid: 0.076 - subdural: 0.098 - epidural: 0.021
+2020-01-12 17:29:48,291 train INFO: Val. AUC - intraparenchymal: 0.979 - intraventricular: 0.991 - subarachnoid: 0.971 - subdural: 0.967 - epidural: 0.961
+2020-01-12 17:29:49,338 train INFO: 
+Epoch 14
+2020-01-12 18:11:17,175 train INFO: Train loss: 0.11933, learning rate: 0.000552
+2020-01-12 18:15:50,993 train INFO: Val. loss: 0.07963 - any: 0.262 - intraparenchymal: 0.068 - intraventricular: 0.040 - subarachnoid: 0.079 - subdural: 0.087 - epidural: 0.021
+2020-01-12 18:15:51,072 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.990 - subarachnoid: 0.970 - subdural: 0.973 - epidural: 0.964
+2020-01-12 18:15:52,598 train INFO: 
+Epoch 15
+2020-01-12 18:57:19,943 train INFO: Train loss: 0.11696, learning rate: 0.000500
+2020-01-12 19:01:56,005 train INFO: Val. loss: 0.08483 - any: 0.286 - intraparenchymal: 0.071 - intraventricular: 0.042 - subarachnoid: 0.089 - subdural: 0.087 - epidural: 0.019
+2020-01-12 19:01:56,085 train INFO: Val. AUC - intraparenchymal: 0.977 - intraventricular: 0.989 - subarachnoid: 0.967 - subdural: 0.974 - epidural: 0.971
+2020-01-12 19:01:57,057 train INFO: 
+Epoch 16
+2020-01-12 19:43:21,503 train INFO: Train loss: 0.11407, learning rate: 0.000448
+2020-01-12 19:47:55,678 train INFO: Val. loss: 0.07911 - any: 0.266 - intraparenchymal: 0.060 - intraventricular: 0.040 - subarachnoid: 0.081 - subdural: 0.088 - epidural: 0.020
+2020-01-12 19:47:55,763 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.990 - subarachnoid: 0.970 - subdural: 0.973 - epidural: 0.969
+2020-01-12 19:47:57,362 train INFO: 
+Epoch 17
+2020-01-12 20:29:24,299 train INFO: Train loss: 0.11212, learning rate: 0.000396
+2020-01-12 20:33:58,957 train INFO: Val. loss: 0.08117 - any: 0.274 - intraparenchymal: 0.063 - intraventricular: 0.043 - subarachnoid: 0.084 - subdural: 0.085 - epidural: 0.019
+2020-01-12 20:33:59,042 train INFO: Val. AUC - intraparenchymal: 0.980 - intraventricular: 0.989 - subarachnoid: 0.970 - subdural: 0.974 - epidural: 0.971
+2020-01-12 20:34:00,001 train INFO: 
+Epoch 18
+2020-01-12 21:15:25,917 train INFO: Train loss: 0.10965, learning rate: 0.000346
+2020-01-12 21:20:00,113 train INFO: Val. loss: 0.07449 - any: 0.243 - intraparenchymal: 0.061 - intraventricular: 0.038 - subarachnoid: 0.069 - subdural: 0.090 - epidural: 0.020
+2020-01-12 21:20:00,193 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.991 - subarachnoid: 0.978 - subdural: 0.974 - epidural: 0.969
+2020-01-12 21:20:02,344 train INFO: 
+Epoch 19
+2020-01-12 22:01:27,692 train INFO: Train loss: 0.10701, learning rate: 0.000297
+2020-01-12 22:06:02,099 train INFO: Val. loss: 0.07550 - any: 0.255 - intraparenchymal: 0.060 - intraventricular: 0.040 - subarachnoid: 0.070 - subdural: 0.084 - epidural: 0.019
+2020-01-12 22:06:02,179 train INFO: Val. AUC - intraparenchymal: 0.982 - intraventricular: 0.991 - subarachnoid: 0.976 - subdural: 0.976 - epidural: 0.971
+2020-01-12 22:06:02,905 train INFO: 
+Epoch 20
+2020-01-12 22:47:27,732 train INFO: Train loss: 0.10581, learning rate: 0.000250
+2020-01-12 22:52:01,945 train INFO: Val. loss: 0.08097 - any: 0.278 - intraparenchymal: 0.063 - intraventricular: 0.039 - subarachnoid: 0.072 - subdural: 0.092 - epidural: 0.022
+2020-01-12 22:52:02,026 train INFO: Val. AUC - intraparenchymal: 0.981 - intraventricular: 0.990 - subarachnoid: 0.975 - subdural: 0.971 - epidural: 0.968
+2020-01-12 22:52:02,983 train INFO: 
+Epoch 21
+2020-01-12 23:33:27,747 train INFO: Train loss: 0.10452, learning rate: 0.000206
+2020-01-12 23:38:05,165 train INFO: Val. loss: 0.07317 - any: 0.242 - intraparenchymal: 0.059 - intraventricular: 0.036 - subarachnoid: 0.069 - subdural: 0.087 - epidural: 0.019
+2020-01-12 23:38:05,255 train INFO: Val. AUC - intraparenchymal: 0.983 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.976 - epidural: 0.970
+2020-01-12 23:38:06,821 train INFO: 
+Epoch 22
+2020-01-13 00:19:48,522 train INFO: Train loss: 0.10344, learning rate: 0.000165
+2020-01-13 00:24:26,446 train INFO: Val. loss: 0.07371 - any: 0.246 - intraparenchymal: 0.062 - intraventricular: 0.036 - subarachnoid: 0.071 - subdural: 0.082 - epidural: 0.019
+2020-01-13 00:24:26,524 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.976 - subdural: 0.976 - epidural: 0.972
+2020-01-13 00:24:27,600 train INFO: 
+Epoch 23
+2020-01-13 01:05:21,887 train INFO: Train loss: 0.10193, learning rate: 0.000128
+2020-01-13 01:09:44,733 train INFO: Val. loss: 0.07405 - any: 0.250 - intraparenchymal: 0.061 - intraventricular: 0.036 - subarachnoid: 0.070 - subdural: 0.082 - epidural: 0.019
+2020-01-13 01:09:44,820 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.976 - epidural: 0.972
+2020-01-13 01:09:45,623 train INFO: 
+Epoch 24
+2020-01-13 01:50:38,076 train INFO: Train loss: 0.09979, learning rate: 0.000095
+2020-01-13 01:54:54,885 train INFO: Val. loss: 0.06945 - any: 0.231 - intraparenchymal: 0.054 - intraventricular: 0.033 - subarachnoid: 0.067 - subdural: 0.082 - epidural: 0.019
+2020-01-13 01:54:54,969 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.980 - subdural: 0.977 - epidural: 0.972
+2020-01-13 01:54:56,765 train INFO: 
+Epoch 25
+2020-01-13 02:35:52,764 train INFO: Train loss: 0.09889, learning rate: 0.000067
+2020-01-13 02:40:11,585 train INFO: Val. loss: 0.07303 - any: 0.245 - intraparenchymal: 0.059 - intraventricular: 0.034 - subarachnoid: 0.071 - subdural: 0.083 - epidural: 0.019
+2020-01-13 02:40:11,667 train INFO: Val. AUC - intraparenchymal: 0.984 - intraventricular: 0.992 - subarachnoid: 0.978 - subdural: 0.976 - epidural: 0.972
+2020-01-13 02:40:12,718 train INFO: 
+Epoch 26
+2020-01-13 03:21:07,249 train INFO: Train loss: 0.09712, learning rate: 0.000043
+2020-01-13 03:25:33,688 train INFO: Val. loss: 0.07113 - any: 0.240 - intraparenchymal: 0.059 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.081 - epidural: 0.018
+2020-01-13 03:25:33,779 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.978 - epidural: 0.974
+2020-01-13 03:25:34,297 train INFO: 
+Epoch 27
+2020-01-13 04:06:27,309 train INFO: Train loss: 0.09791, learning rate: 0.000024
+2020-01-13 04:10:52,650 train INFO: Val. loss: 0.06983 - any: 0.234 - intraparenchymal: 0.056 - intraventricular: 0.033 - subarachnoid: 0.067 - subdural: 0.080 - epidural: 0.018
+2020-01-13 04:10:52,732 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.980 - subdural: 0.978 - epidural: 0.974
+2020-01-13 04:10:53,496 train INFO: 
+Epoch 28
+2020-01-13 04:51:45,100 train INFO: Train loss: 0.09571, learning rate: 0.000011
+2020-01-13 04:56:07,485 train INFO: Val. loss: 0.07117 - any: 0.241 - intraparenchymal: 0.056 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.082 - epidural: 0.018
+2020-01-13 04:56:07,581 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.974
+2020-01-13 04:56:08,632 train INFO: 
+Epoch 29
+2020-01-13 05:37:02,284 train INFO: Train loss: 0.09701, learning rate: 0.000003
+2020-01-13 05:41:26,514 train INFO: Val. loss: 0.07095 - any: 0.239 - intraparenchymal: 0.057 - intraventricular: 0.033 - subarachnoid: 0.068 - subdural: 0.081 - epidural: 0.019
+2020-01-13 05:41:26,612 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.979 - subdural: 0.977 - epidural: 0.973
+2020-01-13 05:41:27,402 train INFO: 
+Epoch 30
+2020-01-13 06:22:07,159 train INFO: Train loss: 0.09615, learning rate: 0.000000
+2020-01-13 06:26:23,810 train INFO: Val. loss: 0.06968 - any: 0.234 - intraparenchymal: 0.055 - intraventricular: 0.033 - subarachnoid: 0.066 - subdural: 0.081 - epidural: 0.018
+2020-01-13 06:26:23,913 train INFO: Val. AUC - intraparenchymal: 0.986 - intraventricular: 0.993 - subarachnoid: 0.980 - subdural: 0.977 - epidural: 0.974
+2020-01-22 13:20:59,890 test INFO: => loading checkpoint weights/best_resnet50.pth
+2020-01-22 13:21:01,822 test INFO: resuming optimizer ...
+2020-01-22 13:21:07,715 test INFO: => loaded checkpoint 'weights/best_resnet50.pth' (epoch 30, best_metric: 0.06369666010141373)
